@@ -17,6 +17,5 @@ extension UIView {
             trailingAnchor.constraint(equalTo: superView.trailingAnchor),
             bottomAnchor.constraint(equalTo: superView.bottomAnchor)
         ])
-        
     }
 }
